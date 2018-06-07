@@ -1,0 +1,7 @@
+sort:
+intervals.sort(key = lambda x : x.start)
+
+print:
+print("[%2d, %2d], " % (interval.start, interval.end), end=' ')
+
+
