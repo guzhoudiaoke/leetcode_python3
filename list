@@ -14,8 +14,8 @@
 23      python3
 32
 33
-34
-35
+34      python3
+35      python3
 39      python3
 42
 46      python3
@@ -41,16 +41,16 @@
 102     python3
 104     python3
 105     python3
-114
+114     python3
 121     python3
 124
-128
+128     python3
 136     python3
 139
 141     python3
 142     python
 146
-148
+148     python3
 152
 155     python3
 160     python3
@@ -96,6 +96,6 @@
 572     python3
 581     python3
 617     python3
-621
+621     python3
 647     python3
 
